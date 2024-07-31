@@ -30,7 +30,7 @@ Leave a comment
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> 
 </p>
 <h2> Connect with me <img src='https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif?cid=ecf05e47op58k874i9g3yungla1kpc91r3ia5jqho8x3k5iw&rid=giphy.gif&ct=s' width="50px"> </h2>
-<a href = 'https://www.linkedin.com/in/pushpender-1946-singh'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/sandeep-toksia-72159229b/'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
