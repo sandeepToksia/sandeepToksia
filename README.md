@@ -22,7 +22,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" idth="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="Jenkins Logo" width="50" height="50"/>
+
 Comment
  
 Leave a comment
