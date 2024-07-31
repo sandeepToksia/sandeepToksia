@@ -4,14 +4,14 @@ Original file line number	Diff line number	Diff line change
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Pushpender Singh. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Sandeep Toksia. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 💻 I’m a DevOps enthusiast
 - 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
 - ✋ Ask me about anything, I'm happy to help!
-- 📥 How to reach me: prana1946@gmail.com
+- 📥 How to reach me: toksia059@gmail.com
  <h2> Languages and tools ⚙️ </h2>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GCP Logo" width="50" height="50"/>
